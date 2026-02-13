@@ -109,6 +109,13 @@ This project demonstrates how machine learning can be applied to healthcare data
 
 ---
 
+## 👩‍💻 Author
+
+Nikita Amelia Valencia  
+Machine Learning & Data Science Enthusiast
+
+---
+
 ## ⚠️ Disclaimer
 
 This project is for **educational and research purposes only** and should not be used as a substitute for professional medical advice or diagnosis.
